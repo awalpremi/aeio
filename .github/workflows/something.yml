@@ -53,6 +53,7 @@ jobs:
         run: |
           hugo \
             --minify \
+            --theme PaperMod\
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Add CNAME for custom domain
         run: echo "awalpremi.com" > ./public/CNAME
