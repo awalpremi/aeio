@@ -1,0 +1,27 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "WEBSI T TE TE"
+theme = "PaperMod"
+
+[params]
+  author = "Your Name or Team"
+  description = "A description of your site for SEO."
+  defaultTheme = "auto"  # Light/Dark theme auto-switching
+  disableSearch = false  # Enable built-in search
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
