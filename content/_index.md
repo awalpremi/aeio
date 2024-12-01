@@ -4,6 +4,11 @@ draft = false
 title = 'Some title for home'
 +++
 
+# Hugo Website
+Testing Hugo as a static site generator:
+- You can learn to make this using: [Blog post](https://freshprinceofstandarderror.com/product/draft-creating-seo-friendly-static-websites-using-hugo/)
+- I tried Jekyll here: [thepremi.com](https://thepremi.com)
+
 # this is heading 1
 
 ## this is heading 2
@@ -12,9 +17,9 @@ title = 'Some title for home'
 
 - **This is a bullet point**
 
-- [Twitter](https://twitter.com/yourprofile)
-- [Facebook](https://facebook.com/yourprofile)
-- [LinkedIn](https://linkedin.com/yourprofile)
+- [Twitter](https://bsky.app/profile/freshprinceofstandarderror.com)
+- [Youtube](https://www.youtube.com/watch?v=fSK3S9kBr5I&t=19s)
+- [LinkedIn](https://www.linkedin.com/in/apremi)
 
 ## Contact Us
 

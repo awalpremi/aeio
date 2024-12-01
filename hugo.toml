@@ -1,6 +1,6 @@
 baseURL = "https://awalpremi.com/"
 languageCode = "en-us"
-title = "WEBSI T TE TE"
+title = "AwalPremi"
 theme = "PaperMod"
 
 [params]
