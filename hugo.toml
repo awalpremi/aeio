@@ -1,14 +1,24 @@
-baseURL = "https://awalpremi.com/"
+baseURL = "https://a-e-i-o.com/"
 languageCode = "en-us"
-title = "AwalPremi"
+title = "a-e-i-o"
 theme = "PaperMod"
 
 [params]
-  author = "Your Name or Team"
+  author = "Melissa"
   description = "A description of your site for SEO."
-  defaultTheme = "auto"  # Light/Dark theme auto-switching
-  disableSearch = false  # Enable built-in search
+  defaultTheme = "Light"  # Light/Dark theme auto-switching
+  disableSearch = true  # Enable built-in search
   mainSections = []
+  ShowShareButtons = true
+  
+
+
+[params.label]
+  icon = "images/aeio-logo.png"
+
+[params.assets]
+  favicon = "images/favicon.png"
+
 
 [menu]
 
