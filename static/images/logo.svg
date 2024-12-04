@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <rect width="100" height="100" fill="black" />
+    <style>
+        .letter {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 20px;
+        }
+        .animate-color {
+            animation: pulseColor 3s infinite;
+        }
+        .animate-pingpong1 {
+            animation: pingPong1 1.5s infinite alternate;
+        }
+        .animate-pingpong2 {
+            animation: pingPong2 1.5s infinite alternate;
+        }
+        @keyframes pulseColor {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.8; }
+        }
+        @keyframes pingPong1 {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-5px); }
+        }
+        @keyframes pingPong2 {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(5px); }
+        }
+    </style>
+    <!-- Letters and Dashes -->
+    <text x="30" y="50" class="letter animate-color" fill="cyan">a</text>
+    <text x="45" y="50" class="letter animate-color animate-pingpong1" fill="white">-</text>
+    <text x="60" y="50" class="letter animate-color" fill="red">e</text>
+    <text x="30" y="80" class="letter animate-color" fill="orange">i</text>
+    <text x="45" y="80" class="letter animate-color animate-pingpong2" fill="white">-</text>
+    <text x="60" y="80" class="letter animate-color" fill="green">o</text>
+</svg>

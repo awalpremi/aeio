@@ -1,23 +1,28 @@
 baseURL = "https://a-e-i-o.com/"
 languageCode = "en-us"
-title = "a-e-i-o"
+title = "aeio games"
 theme = "PaperMod"
 
 [params]
   author = "Melissa"
   description = "A description of your site for SEO."
-  defaultTheme = "Light"  # Light/Dark theme auto-switching
+  defaultTheme = "dark"  # Light/Dark theme auto-switching
   disableSearch = true  # Enable built-in search
   mainSections = []
   ShowShareButtons = true
-  
+  disableSpecial1stPost = true
+  hideMeta = true
+  ShowBreadCrumbs = true
+ hideSummary = true
 
 
 [params.label]
-  icon = "images/aeio-logo.png"
+  icon = "images/logo.svg"
+  iconHeight= 75
 
 [params.assets]
   favicon = "images/favicon.png"
+  apple_touch_icon =  "images/favicon.png"
 
 
 [menu]

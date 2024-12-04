@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 8 8">
+    <defs>
+        <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:cyan;stop-opacity:1" />
+            <stop offset="33%" style="stop-color:red;stop-opacity:1" />
+            <stop offset="66%" style="stop-color:orange;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:green;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <rect width="8" height="8" fill="black" />
+    <g transform="translate(0, 0.5)">
+        <!-- Ghost Body -->
+        <rect x="2.5" y="1" width="3" height="0.5" fill="white" />
+        <rect x="2" y="1.5" width="4" height="0.5" fill="white" />
+        <rect x="1.5" y="2" width="5" height="0.5" fill="white" />
+        <rect x="1.5" y="2.5" width="5" height="1" fill="white" />
+        <rect x="2" y="3.5" width="4" height="0.5" fill="white" />
+        <rect x="2" y="4" width="0.5" height="0.5" fill="white" />
+        <rect x="3" y="4" width="2" height="0.5" fill="white" />
+        <rect x="5.5" y="4" width="0.5" height="0.5" fill="white" />
+        <rect x="2.5" y="4.5" width="3" height="0.5" fill="white" />
+        <!-- Eyes -->
+        <rect x="3" y="2.5" width="0.5" height="0.5" fill="black" />
+        <rect x="4.5" y="2.5" width="0.5" height="0.5" fill="black" />
+        <!-- Text -->
+        <text x="4" y="6" font-family="'IBM Plex Mono', monospace" font-size="1" fill="url(#textGradient)" text-anchor="middle">
+            <tspan>
+                <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite" />
+                a-e-i-o
+            </tspan>
+        </text>
+        <text x="4" y="7" font-family="'IBM Plex Mono', monospace" font-size="0.5" fill="cyan" text-anchor="middle" textLength="6" lengthAdjust="spacingAndGlyphs">
+            Australia ❤️ USA
+        </text>
+    </g>
+</svg>

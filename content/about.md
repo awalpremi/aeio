@@ -3,7 +3,6 @@ date = '2024-11-29T13:15:09-07:00'
 draft = false
 title = 'About Us'
 ShowCodeCopyButtons = true
-hideMeta = true
 description = 'Pixel adventures with simple gameplay and immersive storylines.'
 +++
 
@@ -26,3 +25,4 @@ Two co-founders - Melissa Koven and Awal Premi.
 
 Between us, we bring a mix of skills and experiences, including backgrounds in business, data science, development, narrative design, and product management. We've had the opportunity to work at some large companies and have spent countless hours immersed in games.
 
+![name](/images/aeio-logo.png#center)

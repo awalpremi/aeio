@@ -1,0 +1,72 @@
+/* Importing the pixelated font */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* Light Theme */
+:root {
+    --theme: #ffffff;                /* White background for light theme */
+    --entry: #007acc;                /* Vibrant blue for headings */
+    --primary: rgba(255, 0, 255, 0.88); /* Magenta for primary accents */
+    --secondary: rgba(0, 128, 0, 0.78); /* Green for secondary accents */
+    --tertiary: rgba(255, 165, 0, 0.16);/* Light orange for backgrounds */
+    --content: rgba(0, 0, 0, 0.88);     /* Almost black text for readability */
+    --hljs-bg: #f5f5f5;              /* Light grey for code background */
+    --code-bg: #e8e8e8;              /* Slightly darker grey for code blocks */
+    --border: #cccccc;               /* Light grey border */
+    --radius: 8px;                   /* Border radius */
+}
+
+body {
+    font-family: 'Press Start 2P', cursive, sans-serif;
+    background-color: var(--theme);
+    color: var(--content);
+}
+
+/* Updated styles */
+.post-tags a, .share-buttons, .paginav {
+    border-radius: var(--radius);
+    background: var(--tertiary); /* Light orange background */
+    border: 1px solid var(--border);
+    color: var(--content);       /* Black text */
+    font-family: 'Press Start 2P', cursive, sans-serif;
+    transition: all 0.3s ease;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.post-tags a:hover, .share-buttons:hover, .paginav:hover {
+    background: var(--secondary); /* Green background on hover */
+    border-color: var(--primary); /* Magenta border */
+    color: var(--content);        /* Black text */
+    box-shadow: 0 0 10px var(--primary); /* Magenta glow */
+}
+
+/* Dark Theme */
+.dark {
+    --theme: #0a0a0a;                 /* Dark background for dark theme */
+    --entry: #ff0066;                 /* Neon pink for headings */
+    --primary: rgba(0, 255, 255, 0.88);/* Neon cyan for primary accents */
+    --secondary: rgba(255, 0, 255, 0.78);/* Neon magenta for secondary accents */
+    --tertiary: rgba(255, 255, 0, 0.16); /* Neon yellow for backgrounds */
+    --content: rgba(255, 255, 255, 0.88);/* White text for readability */
+    --hljs-bg: #1a1a1a;              /* Dark grey for code background */
+    --code-bg: #333333;              /* Darker grey for code blocks */
+    --border: #ff00ff;               /* Neon pink border */
+}
+
+/* Apply dark theme styles when .dark class is added to body */
+body.dark {
+    background-color: var(--theme);
+    color: var(--content);
+}
+
+/* Footer styles */
+.footer {
+    font-size: 8px; /* Small font size */
+    font-weight: normal; /* Regular font weight */
+}
+
+
+.entry-footer {
+    color: rgb(247 247 247 / 78%);
+    font-size: 13px;
+}
