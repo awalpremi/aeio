@@ -14,4 +14,4 @@ description = 'Scaredy Cat available to wishlist'
 
 <iframe src="https://store.steampowered.com/widget/2919030/" frameborder="0" width="646" height="190"></iframe>
 
-![Logo](/images/ghost.svg#center)
+![Logo](/aeio//images/ghost.svg#center)
