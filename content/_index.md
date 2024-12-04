@@ -1,20 +1,24 @@
-
 +++
 date = '2024-11-29T12:09:38-07:00'
 draft = false
 title = 'Some title for home'
+
 +++
 
-# Scaredy Cat Demo Now Out
+*Now Out*
 
-![Logo](/images/ghost.svg)
+# Scaredy Cat Demo 
 
-![Logo](/images/logolarge.svg)
-**Scaredy Cat available on** 
+![Logo](/images/sc.jpg)
+##### **Tags: Narrative, Adventure, Thriller, Cosy**
 
-![Xbox](https://img.icons8.com/color/48/000000/xbox.png)
-![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
-![Mac](https://img.icons8.com/color/48/000000/mac-logo.png)
-![Steam](https://img.icons8.com/color/48/000000/steam.png)
+[Scaredy Cat on Steam](https://store.steampowered.com/app/2919030/Scaredy_Cat/)
 
-{{< newtabref href="<YOUR EXTERNAL LINK>" title="<TITLE FOR LINK>" >}}
+---
+
+Henny has been worn-to-the-bone by a soulsucking corporate career that has gifted her with heart problems. After she rage quits and starts pet sitting, she discovers her new gig will be just as horrifying as her last.
+
+![Logo](/images/ghost.svg#center)
+
+
+

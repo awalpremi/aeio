@@ -6,7 +6,7 @@ theme = "PaperMod"
 [params]
   author = "Melissa"
   description = "A description of your site for SEO."
-  defaultTheme = "dark"  # Light/Dark theme auto-switching
+  defaultTheme = "Dark"  # Light/Dark theme auto-switching
   disableSearch = true  # Enable built-in search
   mainSections = []
   ShowShareButtons = true
