@@ -4,7 +4,7 @@ draft = false
 title = 'Media and Publications'
 hideMeta = false
 description = 'a-e-i-o game studio as covered by the press and other publications'
-ShowShareButtons = false
+ShowShareButtons = true
 +++
 
 

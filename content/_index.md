@@ -6,6 +6,8 @@ title = 'Some title for home'
 +++
 
 
+[Follow me on socials](blog/social/)
+
 *Now Out*
 # Scaredy Cat Demo 
 

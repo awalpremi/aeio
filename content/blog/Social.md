@@ -4,8 +4,12 @@ draft = false
 title = 'Social Media'
 hideMeta = false
 description = 'a-e-i-o game studio official social media'
-ShowShareButtons = false
+disableShare = true
 +++
+#
+Hi,
+Every follow is really appreciated.
+
 
 <div style="text-align:center; font-size:14px; animation:fadeIn 2s;">
     <a href="https://twitter.com/aeiogames/" target="_blank" class="social-link">Twitter</a>
@@ -16,10 +20,10 @@ ShowShareButtons = false
 </div>
 
 <style>
-@keyframes fadeIn {
+/* @keyframes fadeIn {
     0% { opacity: 0; transform: scale(0.9); }
     100% { opacity: 1; transform: scale(1); }
-}
+} */
 
 @keyframes hoverEffect {
     0% { transform: scale(1); }
@@ -43,3 +47,9 @@ ShowShareButtons = false
     animation: hoverEffect 0.6s;
 }
 </style>
+
+#
+#
+#
+#
+<iframe src="https://store.steampowered.com/widget/2919030/" frameborder="0" width="646" height="190"></iframe>
