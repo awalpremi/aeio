@@ -57,7 +57,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Add CNAME for custom domain
-        run: echo "awalpremi.com" > ./public/CNAME
+        run: echo "a-e-i-o.com" > ./public/CNAME
       - name: Debug Build Output
         run: ls -R ./public
       - name: Upload artifact
