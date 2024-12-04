@@ -90,10 +90,10 @@ Henny has been worn-to-the-bone by a soulsucking corporate career that has gifte
 </div>
 
 <style>
-@keyframes fadeIn {
+/* @keyframes fadeIn {
     0% { opacity: 0; transform: scale(0.9); }
     100% { opacity: 1; transform: scale(1); }
-}
+} */
 
 @keyframes hoverEffect {
     0% { transform: scale(1); }
