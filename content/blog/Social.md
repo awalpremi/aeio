@@ -8,7 +8,8 @@ disableShare = true
 +++
 #
 Hi,
-Every follow is really appreciated.
+
+Even you being here is really appreciated.
 
 
 <div style="text-align:center; font-size:14px; animation:fadeIn 2s;">
