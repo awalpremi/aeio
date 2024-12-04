@@ -33,7 +33,7 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
-    name = "Blog"
+    name = "Social"
     url = "/blog/"
     weight = 2
 
