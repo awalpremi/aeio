@@ -9,6 +9,7 @@ description = 'Pixel adventures with simple gameplay and immersive storylines.'
 
 <!-- //![name](/images/aeio-logo.png#center) -->
 
+Contact : hi@a-e-i-o.com
 
 ### Based in the US
 

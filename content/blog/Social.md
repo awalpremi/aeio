@@ -18,6 +18,8 @@ Even you being here is really appreciated.
     <a href="https://www.youtube.com/@aeio_games/" target="_blank" class="social-link">YouTube</a>
     <a href="https://www.tiktok.com/@aeiogames/" target="_blank" class="social-link">TikTok</a>
     <a href="https://bsky.app/profile/aeiogames.bsky.social" target="_blank" class="social-link">Bluesky</a>
+    <a href="https://www.threads.net/@aeiogames" target="_blank" class="social-link">Threads</a>
+    <a href="https://store.steampowered.com/curator/44954761" target="_blank" class="social-link">Steam</a>
 </div>
 
 <style>
