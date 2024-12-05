@@ -1,6 +1,3 @@
-/* Importing the pixelated font */
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
 /* Light Theme */
 :root {
     --theme: #ffffff;                /* White background for light theme */
