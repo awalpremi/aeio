@@ -6,7 +6,7 @@ theme = "PaperMod"
 [params]
   author = "Melissa"
   description = "Pixel adventure and narrative games"
-  defaultTheme = "Dark"  # Light/Dark theme auto-switching
+  defaultTheme = "dark"  # Light/Dark theme auto-switching
   disableSearch = true  # Enable built-in search
   mainSections = []
   ShowShareButtons = true
@@ -16,6 +16,7 @@ theme = "PaperMod"
  hideSummary = true
  inlineStyle = true
    inlineScript = true
+     minify = true
 
 
 [services.googleAnalytics]
@@ -53,3 +54,10 @@ theme = "PaperMod"
     [markup.goldmark.renderer]
       unsafe = true
 
+# Enable Caching
+[outputs]
+  home = ["HTML", "RSS", "JSON"] # Optimize output formats
+
+# Specify Build Options
+[build]
+  writeStats = true  
