@@ -15,6 +15,9 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
  hideSummary = true
 
+[services.googleAnalytics]
+  ID = "G-GXVBXGX2ZL"
+
 
 [params.label]
   icon = "images/logo.svg"
