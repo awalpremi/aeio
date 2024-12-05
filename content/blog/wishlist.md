@@ -13,4 +13,4 @@ Releasing On
 ![Steam](https://img.icons8.com/color/48/000000/steam.png)
 
 
-![Logo](/aeio//images/ghost.svg#center)
+![Logo](/images/ghost.svg#center)

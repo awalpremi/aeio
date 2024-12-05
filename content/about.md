@@ -36,4 +36,4 @@ Between us, we bring a mix of skills and experiences, including backgrounds in b
 
 We've had the opportunity to work at some large companies and have spent countless hours immersed in games.
 
-![Logo](/aeio//images/ghost.svg#center)
+![Logo](/images/ghost.svg#center)

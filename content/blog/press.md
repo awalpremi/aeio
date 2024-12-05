@@ -15,9 +15,9 @@ https://impress.games/press-kit/aeio/scaredy-cat
 
 Bonus fun logos
 
-![Logo](/aeio//images/ghost.svg#center)
+![Logo](/images/ghost.svg#center)
 
-![Logo](/aeio//images/logo.svg#center)
+![Logo](/images/logo.svg#center)
 
-![Logo](/aeio//images/aeio-logo-trans.png#center)
-![Logo](/aeio//images/sc.jpg#center)
+![Logo](/images/aeio-logo-trans.png#center)
+![Logo](/images/sc.jpg#center)

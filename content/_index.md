@@ -10,7 +10,7 @@ title = 'Some title for home'
 *Now Out*
 # Scaredy Cat Demo 
 
-![Logo](/aeio/images/sc.jpg)
+![Logo](/images/sc.jpg)
 
 ##### **Tags: Narrative, Adventure, Thriller, Cozy**
 
@@ -125,7 +125,7 @@ Henny has been worn-to-the-bone by a soulsucking corporate career that has gifte
     animation: hoverEffect 0.6s;
 }
 </style>
-![Logo](/aeio//images/ghost.svg#center)
+![Logo](/images/ghost.svg#center)
 
 
 
