@@ -1,7 +1,7 @@
 +++
 date = '2024-11-29T12:09:38-07:00'
 draft = false
-title = 'Some title for home'
+title = 'Tales in tune with play. Scaredy Cat demo out now.'
 
 +++
 
