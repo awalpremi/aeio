@@ -65,8 +65,9 @@ Henny has been worn to the bone by a soul-sucking corporate career that has gift
     </iframe>
 </div>
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
-    <iframe src="https://www.tiktok.com/embed/v2/7374083586883849515" 
+<div style="position: relative; width: 100%; max-width: 400px; margin: auto; height: 600px; overflow: hidden;">
+    <iframe 
+        src="https://www.tiktok.com/embed/v2/7374083586883849515" 
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
         frameborder="0" 
         loading="lazy" 
@@ -92,9 +93,16 @@ Henny has been worn to the bone by a soul-sucking corporate career that has gift
     </iframe>
 </div>
 
-<a href="https://www.tiktok.com/@thestarbuck86x/photo/7423053622621064491" target="_blank">
-    <img src="/images/tiktokreview.png" width="400" loading="lazy" />
-</a>
+<div style="position: relative; text-align: center; max-width: 400px; margin: auto;">
+    <a href="https://www.tiktok.com/@thestarbuck86x/photo/7423053622621064491" target="_blank" style="display: inline-block; position: relative;">
+        <img src="/images/tiktokreview.png" width="100%" loading="lazy" alt="TikTok Review Image" style="display: block;">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80px; height: 80px; background: rgba(0, 0, 0, 0.5); border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8 5v14l11-7L8 5z" fill="#fff"/>
+            </svg>
+        </div>
+    </a>
+</div>
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
     <iframe src="https://www.youtube.com/embed/QfnV2WcH8wk" 
@@ -156,4 +164,4 @@ Henny has been worn to the bone by a soul-sucking corporate career that has gift
     animation: hoverEffect 0.6s;
 }
 </style>
-<img src="/images/ghost.svg" loading="lazy" alt="Ghost Logo">
+![Logo](/images/ghost.svg#center)
