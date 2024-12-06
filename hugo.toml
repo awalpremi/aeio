@@ -13,15 +13,15 @@ theme = "PaperMod"
   disableSpecial1stPost = true
   hideMeta = true
   ShowBreadCrumbs = true
- hideSummary = true
- inlineStyle = true
-   inlineScript = true
-     minify = true
-
+  hideSummary = true
+  inlineStyle = true
+  inlineScript = true
+  minify = true
+  env = "production"
+  images = ["/images/sc.jpg"]
 
 [services.googleAnalytics]
   ID = "G-GXVBXGX2ZL"
-
 
 [params.label]
   icon = "images/logo.svg"
@@ -30,7 +30,6 @@ theme = "PaperMod"
 [params.assets]
   favicon = "images/favicon.png"
   apple_touch_icon =  "images/favicon.png"
-
 
 [menu]
 
@@ -60,4 +59,4 @@ theme = "PaperMod"
 
 # Specify Build Options
 [build]
-  writeStats = true  
+  writeStats = true
