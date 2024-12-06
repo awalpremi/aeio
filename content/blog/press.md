@@ -13,7 +13,7 @@ Press Kit
 
 https://impress.games/press-kit/aeio/scaredy-cat
 
-Bonus fun logos
+Bonus Fun Logos
 
 ![Logo](/images/ghost.svg#center)
 

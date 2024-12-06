@@ -18,7 +18,7 @@ https://theindiebrew.com.au/25-must-play-demos-from-steam-next-fest-october-2024
 
 ---
 
-Top Steam Games To Lookout for in September 2024 - GamesArdor
+Top Steam Games To Look Out for in September 2024 - GamesArdor
 https://gamesardor.net/top-steam-games-to-lookout-for-in-september-2024/#scaredy-cat-demo
 
 ---

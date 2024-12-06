@@ -17,7 +17,7 @@ title = 'Tales in tune with play. Scaredy Cat demo out now.'
 
 ---
 
-Henny has been worn-to-the-bone by a soulsucking corporate career that has gifted her with heart problems. After she rage quits and starts pet sitting, she discovers her new gig will be just as horrifying as her last.
+Henny has been worn to the bone by a soul-sucking corporate career that has gifted her with heart problems. After she rage quits and starts pet sitting, she discovers her new gig will be just as horrifying as her last.
 
 <div style="text-align:center;">
     <a href="https://store.steampowered.com/app/2919030/Scaredy_Cat/" target="_blank" style="display:inline-block; padding:10px; background-color:#ffcc00; color:#000; font-size:20px; font-weight:bold; text-decoration:none; border-radius:5px; animation:shake 0.5s; animation-iteration-count:infinite;">
