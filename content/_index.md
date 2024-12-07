@@ -143,7 +143,7 @@ Henny has been worn to the bone by a soul-sucking corporate career that has gift
 </div>
 
 <style>
-@keyframes fadeIn { 0% { opacity: 0; } 100% { opacity: 1; } }
+/* @keyframes fadeIn { 0% { opacity: 0; } 100% { opacity: 1; } } */
 @keyframes hoverEffect {
     0% { transform: scale(1); }
     50% { transform: scale(1.1); }
