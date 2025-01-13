@@ -7,6 +7,10 @@ description = 'a-e-i-o game studio as covered by the press and other publication
 ShowShareButtons = true
 +++
 
+Scaredy Cat Is a Pixel Adventure for the Burned Out From the 9-5 Grind Crowd - The Indie Game Cafe
+https://theindiegamecafe.substack.com/p/scaredy-cat-is-a-pixel-adventure
+
+---
 
 [Press Release] Scaredy Cat: Demo Now Available on Steam for Windows and Mac - Games Press
 https://www.gamespress.com/en-US/Scaredy-Cat-Demo-Now-Available-on-Steam-for-Windows-and-Mac
