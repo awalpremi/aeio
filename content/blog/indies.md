@@ -1,5 +1,5 @@
 +++
-date = '2024-12-01T10:59:25-07:00'
+date = '2025-01-12T10:59:25-07:00'
 draft = false
 title = 'Indie Gamer Community'
 hideMeta = false
